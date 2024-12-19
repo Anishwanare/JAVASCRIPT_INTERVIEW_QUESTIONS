@@ -1,0 +1,3 @@
+# JAVASCRIPT_INTERVIEW_QUESTIONS
+
+1. What is JavaScript
